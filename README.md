@@ -2,8 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Desafio Alura Turma 4: Conversor de Moedas</title>
-	<meta charset="UTF-8">
+	
 </head>
 <body>
 	<h1>Desafio Alura Turma 4: Conversor de Moedas</h1>
@@ -18,7 +17,7 @@
 	<h2>Uso</h2>
 	<ol>
 		<li>Clone o repositório para o seu computador local:</li>
-		<pre><code>git clone https://github.com/seu-usuario/nome-do-repositorio.git</code></pre>
+		<pre><code>git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/guedesp/DesafioAluraConversorMoeda.git)</code></pre>
 		<li>Abra o projeto em sua IDE preferida.</li>
 		<li>Execute o programa.</li>
 		<li>Escolha uma das opções de conversão (moedas, Brix, força ou tamanho de arquivos).</li>
