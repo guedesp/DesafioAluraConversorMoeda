@@ -35,19 +35,6 @@
 		<li>Compile o projeto.</li>
 		<li>O programa está pronto para ser usado.</li>
 	</ol>
-	<h2>Contribuição</h2>
-	<p>Para contribuir com o projeto, faça um fork do repositório, faça suas alterações e envie uma pull request.</p>
-	<h2>Licença</h2>
-	<p>Este projeto está licenciado sob a Licença MIT. Leia o arquivo LICENSE para obter mais informações.</p>
-	<h2>Autores</h2>
-	<ul>
-		<li>[Seu nome aqui]</li>
-	</ul>
-	<h2>Agradecimentos</h2>
-	<p>[Agradecimentos aqui]</p>
-	<h2>Links úteis</h2>
-	<ul>
-		<li>[Link útil aqui]</li>
-	</ul>
+	
 </body>
 </html>
