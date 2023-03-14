@@ -13,7 +13,7 @@
 		<li>Conversor de Brix</li>
 		<li>Conversor de Força</li>
 		<li>Conversor de tamanho de arquivos</li>
-		![descrição da imagem](https://github.com/guedesp/DesafioAluraConversorMoeda/blob/main/print_programa.png?raw=true)
+		![descrição da imagem](DesafioAluraConversorMoeda/print_programa.png)
 	</ul>
 	<h2>Uso</h2>
 	<ol>
