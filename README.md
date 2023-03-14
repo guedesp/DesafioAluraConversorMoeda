@@ -13,12 +13,12 @@
 		<li>Conversor de Brix</li>
 		<li>Conversor de Força</li>
 		<li>Conversor de tamanho de arquivos</li>
-		<a href="https://github.com/guedesp/DesafioAluraConversorMoeda/blob/main/print_programa.png?raw=true"></a>
+		<img src="https://raw.githubusercontent.com/guedesp/DesafioAluraConversorMoeda/main/print_programa.png">
 	</ul>
 	<h2>Uso</h2>
 	<ol>
 		<li>Clone o repositório para o seu computador local:</li>
-		<pre><code>git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/guedesp/DesafioAluraConversorMoeda.git)</code></pre>
+		<pre><code>git clone [https://github.com/guedesp/DesafioAluraConversorMoeda.git]</code></pre>
 		<li>Abra o projeto em sua IDE preferida.</li>
 		<li>Execute o programa.</li>
 		<li>Escolha uma das opções de conversão (moedas, Brix, força ou tamanho de arquivos).</li>
